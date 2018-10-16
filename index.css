@@ -1,0 +1,12 @@
+body{
+  background: #ccc;
+}
+#canvas-holder{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#draw-frame{
+  background: white;
+  box-shadow: #858585 0px 0px 15px 2px;
+}
